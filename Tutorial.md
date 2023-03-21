@@ -2,9 +2,11 @@
 title: How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
 description: We are going to build an nft marketplace with next.js as the framework,Ipfs for storage and Redux for state management and Hardhat for compiling.
 authors:
-  - name: Tevin Isaac
+  - name: Tevin Isaac 🔗 External
     Blockchain Developer, Dacade Evangelist
     url: https://github.com/Tevin-Isaac
+    tags: [Next.js, Intermediate, solidity, metamask, Redux,Ipfs]
+    hide_table_of_contents: true
 ---
 
 #  How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
@@ -2402,6 +2404,7 @@ To fix this error, you'll need to modify the server-side code running at  the ip
 If you don't have access to modify the server-side code, you can try using a proxy server to make the request instead. The proxy server can be configured to add the necessary headers to the request before forwarding it on to the target server.
 
 Alternatively, you can also try using a CORS proxy service such as CORS Anywhere or CORS-Proxy to make the request. These services act as a middleman between your web application and the target server, adding the necessary CORS headers to allow the request to go through. However, please note that using a third-party service may not be ideal for sensitive or private data as it can introduce additional security risks.
+*This error is not on every machine depending on which browser your using but i recently encountered when running my chrome browser.
 ### About the author
 
 I'm Tevin Isaac a blockchain developer based in Nairobi Kenya and a dacade evengelist.
