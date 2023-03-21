@@ -15,7 +15,9 @@ hide_table_of_contents: true
 There are several NFT marketplaces that operate on the Celo blockchain, including Celo NFT Marketplace, Moola Market, and FAMEO. These marketplaces allow artists and creators to mint and sell their unique digital assets, including art, music, videos, and more.
 In this tutorial, you’ll learn how to mint NFTs and purchase them after minting them on the celo blockchain.
 
-Here’s a demo  video of what you will be creating.
+ ## Demo
+ 
+
 https://user-images.githubusercontent.com/81568615/176025390-e2a59d71-8772-4b14-8f73-e74e56071352.mp4
 
 ## Screenshot
