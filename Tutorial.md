@@ -1,3 +1,4 @@
+---
 title: How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
 description: We are going to build an nft marketplace with next.js as the framework,Ipfs for storage and Redux for state management and Hardhat for compiling.
 authors:
