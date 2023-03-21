@@ -6,9 +6,8 @@ authors:
     image_url: <https://github.com/Tevin-Isaac.png>
 tags: [Next.js,solidity,metamask,Intermediate,hardhat,ipfs,Redux]
 hide_table_of_contents: true
----
+---![Screenshot from 2023-03-21 23-56-42](https://user-images.githubusercontent.com/81568615/226739425-315304e7-385e-4c20-880a-db2387071ec9.png)
 
-#  How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
 
 ### Introduction
 There are several NFT marketplaces that operate on the Celo blockchain, including Celo NFT Marketplace, Moola Market, and FAMEO. These marketplaces allow artists and creators to mint and sell their unique digital assets, including art, music, videos, and more.
