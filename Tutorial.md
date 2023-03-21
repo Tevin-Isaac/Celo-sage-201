@@ -1,12 +1,13 @@
----
 title: How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
 description: We are going to build an nft marketplace with next.js as the framework,Ipfs for storage and Redux for state management and Hardhat for compiling.
 authors:
-  - name: Tevin Isaac 🔗 External
-    Blockchain Developer, Dacade Evangelist
-    url: https://github.com/Tevin-Isaac
-    tags: [Next.js, Intermediate, solidity, metamask, Redux,Ipfs]
-    hide_table_of_contents: true
+- name: Tevin Isaac
+    title: Blockchain Developer, Dacade Evangelist
+    url: <https://github.com/Tevin-Isaac>
+    image_url: <https://github.com/Tevin-Isaac.png>
+tags: [Next.js,solidity,metamask,Intermediate,hardhat,ipfs,Redux]
+hide_table_of_contents: true
+slug: /tutorials/How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
 ---
 
 #  How to build an NFT marketplace with Next.js,ipfs,ether.js and Redux
