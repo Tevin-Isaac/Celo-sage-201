@@ -20,6 +20,8 @@ In this tutorial, you’ll learn how to mint NFTs and purchase them after mintin
 
 https://user-images.githubusercontent.com/81568615/176025390-e2a59d71-8772-4b14-8f73-e74e56071352.mp4
 
+https://user-images.githubusercontent.com/81568615/176022936-90c189a5-1750-447a-89e2-ab5136496acd.mp4
+
 ## Screenshot
 ![Screenshot from 2022-06-23 15-36-20](https://user-images.githubusercontent.com/81568615/175301654-712d098e-c277-4732-a8c5-93d989324816.png)
 
