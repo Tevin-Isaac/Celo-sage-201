@@ -1793,7 +1793,7 @@ Finally, the basicAuth function is used to wrap the component, which ensures tha
 
  
  - **Redux**
-Redux is a predictable state container for JavaScript apps.To learn more about it before we proceed click here (https://redux.js.org/introduction/getting-started).This will help you to be able to install it and know its role in major applications.
+is a predictable state container for JavaScript apps.To learn more about it before we proceed click here (https://redux.js.org/introduction/getting-started).This will help you to be able to install it and know its role in major applications.
 Our redux fder has  5 files namely `actions.js`,`interactions.js`,`reducers.js`,`store.js` and `types.js`.
 Our actions.js file looks like this:
 ```javascript
