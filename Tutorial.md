@@ -2062,8 +2062,9 @@ loadOwnedNFT: This function takes in a Web3 provider, the NFT marketplace contra
 buyNFT: This function takes in the NFT marketplace contract instance, the connected wallet address, the token ID of the NFT to buy, the price of the NFT in ether, a Redux dispatch function, a success callback function, and an error callback function. It attempts to buy the NFT by calling the buyItem function on the marketplace contract with the correct arguments, and if successful, dispatches an action to indicate that the NFT has been purchased and calls the success callback. If an error occurs, it calls the error callback with the error message.
 
 
-On our next file  in the folder its reducers.js file which is very important.To learn more about reducers on redux then click this(https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)
+On our next file  in the folder its reducers.js file which is very important.
 
+To learn more about reducers on redux then click **[Reducers article](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)** for further knowledge about Reducers.
 our file will look like this:
 ```javascript
 import { combineReducers } from "redux";
