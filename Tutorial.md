@@ -543,7 +543,7 @@ The mintingCost variable specifies the cost required to mint an NFT, which is se
 The ListingStatus enum is used to define the different states an NFT can be in on the marketplace: Active, Sold, or Cancelled.
 
 Overall, the contract sets up some basic functionality and variables needed for an NFT marketplace, but it does not yet implement any actual buying or selling functionality.
-If you need to  **[learn about variables in solidity](https://www.tutorialspoint.com/solidity/solidity_variables.htm)**. This guide includes detsils about solidity variables
+If you need to  **[learn about variables in solidity](https://www.tutorialspoint.com/solidity/solidity_variables.htm)**. This guide includes details about solidity variables
 
 
 Our next line of code is this:
@@ -895,7 +895,7 @@ pnpm create next-app
 You can follow this step to step guide on how to  **[build a next.js app](https://nextjs.org/docs/getting-started)**. This guide will help you learn how to create a new next.js app.
 :::
 
-
+- **`.env`**
 We will also need to include our .env file which is where you will copy your metamask wallet seed phrase that will give you access to the metamask wallet for you to be able to mint your NFT.
 Create a new file in your main directory called .env. Inside the .env file, store your mnemonic. It should look like this:
 
@@ -1658,7 +1658,7 @@ The component uses an API key from Infura to connect to IPFS and uploads the ima
 
 The component also includes various error messages, such as if a required field is missing or if the image upload or metadata upload fails. There is also a check to ensure that the user is on the alfajores test network.
 
-Something very important you have to remember about IPFS is for you to upload images on IPFS see this article (https://dev.to/adhamniazy/how-to-upload-images-to-ipfs-using-infuraio-dedicated-gateways-11c6) that shows how you can creat an account with Infura and create an account that way your minted NFTs will be able to show.
+Something very important you have to remember about IPFS is for you to upload images on IPFS see this article  **[how to upload images to ipfs using infura](https://dev.to/adhamniazy/how-to-upload-images-to-ipfs-using-infuraio-dedicated-gateways-11c6)**. This guide will help you learn how to create your account and setup a new project.
 This is how my account that i created looks like:
 ![Screenshot from 2023-03-08 17-12-42](https://user-images.githubusercontent.com/81568615/226414377-0a4081aa-fcc4-49f3-80c9-247718a6b608.png)
 ![Screenshot from 2023-03-08 17-13-38](https://user-images.githubusercontent.com/81568615/226414399-4800e8f5-73f3-4617-abe8-98eae2a2afce.png)
