@@ -895,7 +895,9 @@ pnpm create next-app
 You can follow this step to step guide on how to  **[build a next.js app](https://nextjs.org/docs/getting-started)**. This guide will help you learn how to create a new next.js app.
 :::
 
-- **`.env`**
+- **.env**
+
+
 We will also need to include our .env file which is where you will copy your metamask wallet seed phrase that will give you access to the metamask wallet for you to be able to mint your NFT.
 Create a new file in your main directory called .env. Inside the .env file, store your mnemonic. It should look like this:
 
@@ -1035,9 +1037,11 @@ To run the script, you can use the command npx hardhat run scripts/deploy.js --n
 
 
 - **`next.config.js`**
+
+
 We also need to add a custom configuration file for Next.js  that is not included in the browser build.With this we can be able to configure our next.js application for it to interact with the server.
 :::tip
-To learn more about this custom added file chexk out this  **[guide that  explains more about this file](https://nextjs.org/docs/api-reference/next.config.js/introduction)** and how its used.
+To learn more about this custom added file check out this  **[guide that  explains more about this file](https://nextjs.org/docs/api-reference/next.config.js/introduction)** and how its used.
 :::
 
 To learn more about this file click here(https://nextjs.org/docs/api-reference/next.config.js/introduction)
@@ -1075,7 +1079,9 @@ Finally, module.exports exports the nextConfig object so it can be used as a con
 
 
 - **components**
-Our componentes folder is where we have 3 files that will facilitate how our NFTs will look like once minted.The files are `Card.js`,`Navbar.js`and `Spinner.js`.
+
+
+Our components folder is where we have 3 files that will facilitate how our NFTs will look like once minted.The files are `Card.js`,`Navbar.js`and `Spinner.js`.
 
 Card.js
 ```javascript
@@ -1283,8 +1289,9 @@ export default Spinner;
 ```
 This component returns a spinner icon that indicates the loading status of the page or an element. The spinner icon is displayed in the center of the page with the help of bootstrap classes d-flex and justify-content-center. The spinner-border class adds a spinning animation effect to the icon, and the sr-only class hides the spinner label from the screen readers. This component can be used in any React application that requires loading spinners.
   
+- **helpers**
 
-- helpers
+
 We will create our new file in this folder and name it  `AuthHelper.js`.
 This code exports a higher-order function called basicAuth that takes a component as an argument and returns a new component. The returned component includes a NavBar component and the original component (passed as WrappedComponent) as children.
 
@@ -2064,7 +2071,7 @@ buyNFT: This function takes in the NFT marketplace contract instance, the connec
 
 On our next file  in the folder its reducers.js file which is very important.
 
-To learn more about reducers on redux then click **[Reducers article](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)** for further knowledge about Reducers.
+To learn more about reducers on redux then click **[ this Reducers article](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)** for further knowledge about Reducers.
 our file will look like this:
 ```javascript
 import { combineReducers } from "redux";
@@ -2330,6 +2337,8 @@ In Redux, an action type is a string that describes the type of action being per
 In this specific code snippet, we can see several action types being defined for different functionalities related to loading web3, wallet address, NFT contract, minted NFT, owned NFT, unsold NFT, successfully purchased NFT, successfully minted NFT, and NFT marketplace contract.
 
 - **styles**
+
+
 Our application needs some styling and under the styles folder we will create a file named 'global.css' file
 Our styling feature code looks like this:
 ```javascript
