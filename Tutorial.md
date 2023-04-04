@@ -9,7 +9,7 @@ hide_table_of_contents: true
 slug: /tutorials/how-to-build-an-nft-marketplace-with-nextjsipfsetherjs-and-redux
 ---
 
-![header](../../src/data-tutorials/showcase/intermediate/how-to-build-nftmarkertplace.png)
+![Screenshot from 2023-03-21 23-56-42](https://user-images.githubusercontent.com/81568615/226739425-315304e7-385e-4c20-880a-db2387071ec9.png)
 
 ## 🌱 Introduction
 
